@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da Velha</h1>
+<h1 align="center">Sudoku</h1>
 
 <p align="center">Jogo desenvolvido em java durante a 1.ª atividade avaliativa da disciplina POO pelo professor Gleiph Ghiotto do <a href="https://www.ufjf.br/deptocomputacao/">DCC - UFJF</a></p>
 
